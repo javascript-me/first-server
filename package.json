@@ -1,0 +1,27 @@
+{
+  "name": "first-server",
+  "version": "0.0.0",
+  "description": "first-server\r ============\r Hello JT boys and girls.",
+  "main": "./src/adder.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha ./test/adderTest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JavaScriptThinker/first-server.git"
+  },
+  "keywords": [
+    "first",
+    "server"
+  ],
+  "author": "agileabc",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "88f30258259c866ecb141d6b405741c360fd954a",
+  "bugs": {
+    "url": "https://github.com/JavaScriptThinker/first-server/issues"
+  }
+}
