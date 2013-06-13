@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bd18907-08f3-4ccb-b398-a13c300dcb21" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="DELETED" beforePath="C:\Doc\Dev\Office\JavaScriptThinker\first-server\package0.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="first-server.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -10,7 +13,7 @@
     <file path="/adder.js" changelist="5bd18907-08f3-4ccb-b398-a13c300dcb21" time="1371025772204" ignored="false" />
     <file path="/adderTest.js" changelist="5bd18907-08f3-4ccb-b398-a13c300dcb21" time="1371026851846" ignored="false" />
     <file path="$PROJECT_DIR$/../image-home/node_modules/formidable/package.json" changelist="5bd18907-08f3-4ccb-b398-a13c300dcb21" time="1371027993881" ignored="false" />
-    <file path="$PROJECT_DIR$/../first-client/src/index.js" changelist="5bd18907-08f3-4ccb-b398-a13c300dcb21" time="1371039552317" ignored="false" />
+    <file path="$PROJECT_DIR$/../first-client/src/index.js" changelist="5bd18907-08f3-4ccb-b398-a13c300dcb21" time="1371144584957" ignored="false" />
     <file path="$PROJECT_DIR$/../first-client/node_modules/first-server/package.json" changelist="5bd18907-08f3-4ccb-b398-a13c300dcb21" time="1371039403260" ignored="false" />
     <file path="$PROJECT_DIR$/../image-home/package.json" changelist="5bd18907-08f3-4ccb-b398-a13c300dcb21" time="1371041140053" ignored="false" />
     <file path="$PROJECT_DIR$/../image-home/src/server.js" changelist="5bd18907-08f3-4ccb-b398-a13c300dcb21" time="1371041908059" ignored="false" />
@@ -79,64 +82,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package0.json" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/package0.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="27" selection-start="118" selection-end="118" vertical-scroll-proportion="0.17985612">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="adder.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/adder.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="24" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="4" selection-start="0" selection-end="632" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="adderTest.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/adderTest.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="41" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="indexTest.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/indexTest.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="32" selection-start="388" selection-end="388" vertical-scroll-proportion="0.0">
+            <state line="9" column="56" selection-start="322" selection-end="322" vertical-scroll-proportion="0.33586338">
               <folding />
             </state>
           </provider>
@@ -161,20 +110,20 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/test/adderTest.js" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/adder.js" />
         <option value="$PROJECT_DIR$/src/multiplier.js" />
-        <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/test/indexTest.js" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/package0.json" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/index.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="495" />
+    <option name="width" value="871" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -391,12 +340,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="495" y="0" width="871" height="728" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32933104" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -410,11 +360,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24318182" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27441284" sideWeight="0.67066896" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -489,13 +438,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package0.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="4" selection-start="161" selection-end="161" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/adder.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="18" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0">
@@ -517,13 +459,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package0.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="4" selection-start="161" selection-end="161" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/adder.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="18" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0">
@@ -540,21 +475,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/adderTest.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="41" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0">
+        <state line="9" column="41" selection-start="213" selection-end="213" vertical-scroll-proportion="0.44820717">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/indexTest.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="32" selection-start="388" selection-end="388" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0">
+        <state line="10" column="32" selection-start="388" selection-end="388" vertical-scroll-proportion="0.49800798">
           <folding />
         </state>
       </provider>
@@ -575,14 +503,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="4" selection-start="0" selection-end="632" vertical-scroll-proportion="0.0">
+        <state line="7" column="4" selection-start="195" selection-end="195" vertical-scroll-proportion="0.36458334">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package0.json">
+    <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="27" selection-start="118" selection-end="118" vertical-scroll-proportion="0.17985612">
+        <state line="9" column="56" selection-start="322" selection-end="322" vertical-scroll-proportion="0.33586338">
           <folding />
         </state>
       </provider>

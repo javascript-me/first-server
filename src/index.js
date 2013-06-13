@@ -7,7 +7,7 @@ function onRequest(request, response) {
     response.writeHead(200, {"Content-Type": "text/html"});
 
     response.write("7 + 8 = " + adder.add(7, 8) + "<br />");
-    response.write("7 * 8 = " + multiplier.multiply(7, 8) + "<br />");
+    response.write("7 * 1 = " + multiplier.multiply(7, 1) + "<br />");
 
     response.end();
 }
