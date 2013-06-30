@@ -1,6 +1,6 @@
 {
   "name": "first-server",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "first-server\r ============\r Hello JT boys and girls.",
   "main": "./src/adder.js",
   "directories": {
