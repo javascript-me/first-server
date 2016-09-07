@@ -11,7 +11,7 @@ describe("GET request", function () {
                 result += chunk;
             });
             response.on("end", function () {
-                assert.equal("7 + 8 = 15<br />7 * 8 = 56<br />", result);
+                assert.equal("7 + 8 = 15<br />7 * 3 = 21<br />", result);
                 done();
             });
         });
