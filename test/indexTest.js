@@ -18,3 +18,10 @@ describe("GET request", function () {
 
     });
 });
+
+it("Test setInterval", function (done) {
+    setInterval(function () {
+        assert.equal(2, 2);
+        done();
+    }, 200);
+})
