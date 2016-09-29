@@ -5,6 +5,10 @@ first-server
 
 node src/index.js
 
+Open another console, then
+
+mocha test/*.js
+
 ### Asynchronous Test
 
 https://github.com/javascript-me/first-server/blob/master/test/indexTest.js
