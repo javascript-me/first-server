@@ -4,7 +4,8 @@ var adder = require("./adder");
 var multiplier = require("./multiplier");
 
 function onRequest(request, response) {
-    response.writeHead(200, {"Content-Type": "text/html"});
+
+    response.writeHead(404, {"Content-Type": "text/html"});
 
     response.write("7 + 8 = " + adder.add(7, 8) + "<br />");
     response.write("7 * 3 = " + multiplier.multiply(7, 3) + "<br />");
