@@ -23,5 +23,8 @@
   "gitHead": "88f30258259c866ecb141d6b405741c360fd954a",
   "bugs": {
     "url": "https://github.com/JavaScriptThinker/first-server/issues"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0"
   }
 }

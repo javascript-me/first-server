@@ -1,5 +1,5 @@
 
-var assert = require("assert");
+var assert = require("chai").assert;
 
 describe("Square service", function () {
 
@@ -7,7 +7,7 @@ describe("Square service", function () {
 
         var http = require("http");
 
-        http.get("http://10.22.16.61:5555/square?a=30", function (response) {
+        http.get("http://localhost:5555/square?a=30", function (response) {
 
             assert.equal(response.statusCode, 200);
 

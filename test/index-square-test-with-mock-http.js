@@ -1,4 +1,4 @@
-var assert = require("assert");
+var assert = require("chai").assert;
 
 var events = require('events').EventEmitter;
 var util = require('util');
