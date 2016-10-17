@@ -7,7 +7,7 @@ describe("Square service", function () {
 
         var http = require("http");
 
-        http.get("http://10.22.16.61:8080/square?a=30", function (response) {
+        http.get("http://10.22.16.61:5555/square?a=30", function (response) {
 
             assert.equal(response.statusCode, 200);
 
