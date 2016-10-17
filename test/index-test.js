@@ -47,7 +47,7 @@ describe("Call service", function () {
 
         http.get("http://localhost:3333", function (response) {
 
-            assert.equal(true, response.statusCode == 200 || response.statusCode == 404);
+            assert.equal(response.statusCode, 200);
 
             var result = "";
 

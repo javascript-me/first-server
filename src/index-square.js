@@ -9,7 +9,7 @@ function onRequest(request, response) {
     var query = url_parts.query;
     var a = Number(query.a);
 
-    response.writeHead(404, {"Content-Type": "text/html"});
+    response.writeHead(200, {"Content-Type": "text/html"});
     response.write("" + a * a);
 
     response.end();
