@@ -1,13 +1,22 @@
 first-server
 ============
 
-### Run it
+### Run index.js test
 
 node src/index.js
 
 Open another console, then
 
-mocha test/*.js
+mocha test/index-test.js
+mocha test/adder-test.js
+
+### Run index-square.js test
+
+node src/index-square.js
+
+Open another console, then
+
+mocha test/index-square-test.js
 
 ### Asynchronous Test
 
