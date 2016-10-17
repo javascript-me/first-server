@@ -1,9 +1,9 @@
 
 var assert = require("assert");
 
-describe("Call service", function () {
+describe("Square service", function () {
 
-    it("should response html text", function (done) {
+    it("should response square result", function (done) {
 
         var http = require("http");
 
