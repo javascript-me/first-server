@@ -9,12 +9,12 @@ function onRequest(request, response) {
     var query = url_parts.query;
     var a = Number(query.a);
 
-    response.writeHead(404, {"Content-Type": "text/html"});
+    response.writeHead(200, {"Content-Type": "text/html"});
     response.write("" + a * a);
 
     response.end();
 }
 
-http.createServer(onRequest).listen("8080");
+http.createServer(onRequest).listen("5555");
 
-console.log("Open link like: http://10.22.16.61:8080/square?a=20");
+console.log("Open link like: http://10.22.16.61:5555/square?a=20");
