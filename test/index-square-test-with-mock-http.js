@@ -5,8 +5,8 @@ var util = require('util');
 var myhttp = function () {
     this.statusCode = 200;
     var _this = this;
-    this.get = function (options, cb) {
-        cb(_this);
+    this.get = function (options, callback) {
+        callback(_this);
         return _this;
     };
 };
