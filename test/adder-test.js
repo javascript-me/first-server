@@ -1,6 +1,3 @@
-
-//Mocha
-
 var adder = require("../src/adder");
 var assert = require("assert");
 

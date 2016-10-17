@@ -12,10 +12,11 @@ var myhttp = function () {
 };
 util.inherits(myhttp, events);
 
-describe("Call service", function () {
+describe("Square service", function () {
 
-    it("should response html text", function (done) {
+    it("should response square result", function (done) {
 
+        //var http = require("http");
         var http = new myhttp();
 
         http.get("http://10.22.16.61:8080/square?a=30", function (response) {
