@@ -1,5 +1,5 @@
 var adder = require("../src/adder");
-var assert = require("char").assert;
+var assert = require("chai").assert;
 
 describe("add()", function(){
 
