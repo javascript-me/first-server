@@ -1,5 +1,5 @@
 
-var assert = require("assert");
+var assert = require("char").assert;
 
 describe("Call service", function () {
 
