@@ -21,6 +21,7 @@ node src/index-square.js
 Open another console, then
 
 mocha test/index-square-test.js
+
 mocha test/index-square-test-with-mock-http.js
 
 ### Asynchronous Test
